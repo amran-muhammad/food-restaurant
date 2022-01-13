@@ -1,0 +1,97 @@
+
+@media only screen and (min-width: 320px) and (max-width:575px)  {  
+    .top-banner {
+        padding: 10.875rem 0 9.375rem;
+    }
+    .testmonial-section .carousel-item .carousel-caption p {
+        font-size: 0.8rem;
+        line-height: 1.0625rem;
+        padding: 0 11% 0.625rem;
+    }
+    .main-btn {
+        display: inline-block;
+        padding: 0.625rem 0.875rem;
+    }
+    .white-btn {
+        display: inline-block;
+        padding: 0.625rem 0.875rem;
+    }
+    .navigation-wrap{
+        text-align:center;
+        background-color:var(--white-color);
+    }
+    h1{
+        font-size:2.5rem;
+    }
+    h2{
+        font-size:1.450rem;
+        line-height:2.0625rem;
+    }
+    .story-section{
+        height:auto;
+        padding:3rem 0;
+    }
+    .text-content {
+        width: 100%;
+        margin: auto;
+    }
+    .newsletter .form-control {
+        height: 3.225rem;
+        margin-bottom: 25px;
+}
+}
+
+
+@media only screen and (min-width: 576px) and (max-width:767px ) {
+    h1{
+        font-size:2.5rem;
+    }
+    h2{
+        font-size:2rem;
+        line-height:2.0625rem;
+    }
+    .top-banner{
+        padding: 10.875rem 0 9.375rem;
+    }
+    .navigation-wrap{
+        text-align:center;
+        background-color:var(--white-color);
+    }
+    .story-section{
+        height:auto;
+        padding:3rem 0;
+    }
+    .testmonial-section .carousel-item {
+        margin-top: 3rem;
+        padding: 14rem 3.125rem;
+ }
+ .newsletter .form-control {
+    height: 3.225rem;
+    margin-bottom: 25px;
+}
+}
+
+
+ @media only screen and (min-width: 768px) and (max-width:991px ) {
+    .text-content{
+        width:100%;
+    }
+    .navigation-wrap .navbar-brand-img{
+        height:3.8125rem;
+
+    }
+    .navigation-wrap{
+        text-align:center;
+        background-color:var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height:1.875rem;
+    }
+    .top-banner{
+        padding:9.375rem 0 9.375rem;
+    }
+    .testmonial-section .carousel-item {
+        margin-top: 3rem;
+        padding: 12rem 3.125rem;
+ }
+}
